@@ -1,1 +1,1 @@
-# ubiquitous-octo-doodle
+BSIT 1B | AY:2025-2026 | CC102 | FUNDAMENTALS OF PROGRAMMING
